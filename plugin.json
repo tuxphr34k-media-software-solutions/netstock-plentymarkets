@@ -1,0 +1,32 @@
+    {
+        "name"              : "Netstock",
+        "marketplaceName"   : {
+            "de":"Netstock - Bestandsoptimierung für den Mittelstand",
+            "en":"Netstock - Inventory Management Software"
+        },
+        "namespace"         : "NetstockPlentymarkets",
+        "type"              : "general",
+        "version"           : "1.0.0",
+        "license"           : "",
+        "isClosedSource"    : "true",
+        "pluginIcon"        : "icon_plugin_xs.png",
+        "price"             : 0.00,
+        "description"       : "Einrichtungs-Plugin für die Netstock - LagerbestandsOptimierung Installation",
+        "shortDescription"  : {
+            "de":"Einrichtungs-Plugin für die Netstock Installation"
+            ,"en":"Plugin for your Netstock instance"
+        },
+        "categories"        : ["3521"],
+        "keywords"          : ["plugins", "bestandsoptimierung","lagerbestand","prognose","optimierung","SaaS","Cloud","bedarf","planung"],
+        "author"            : "Netstock Europe GmbH",
+        "authorIcon"        : "icon_author_xs.png",
+        "email"             : "info@netstock-europe.com",
+        "phone"             : "0231 4760 4600",
+        "serviceProvider"   : "",
+        "containers"        : [],
+        "dataProviders"     : [],
+        "javaScriptFiles"   : [],
+        "require"           : [],
+        "dependencies"      : [],
+        "runOnBuild"        : []
+    }
