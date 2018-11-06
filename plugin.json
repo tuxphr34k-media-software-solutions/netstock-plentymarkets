@@ -6,7 +6,7 @@
         },
         "namespace"         : "NetstockPlentymarkets",
         "type"              : "general",
-        "version"           : "1.0.0",
+        "version"           : "1.0.1",
         "license"           : ".",
         "isClosedSource"    : true,
         "pluginIcon"        : "icon_plugin_xs.png",
